@@ -10,7 +10,7 @@
 
 | | |
 |-|-|
-|**Operating System**| MacOS 12.4 Monterey
+|**Operating System**| MacOS 12.6 Monterey
 |**SMBIOS**| MacBook Pro 15,4 (2019)
 |**CPU**|Intel Core i5-8365U CPU (Whiskey Lake)|
 |**RAM**|16GB DDR4 2666MHz|
